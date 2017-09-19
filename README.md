@@ -21,7 +21,7 @@ You've already used some comparison operators (greater than, less than, and equa
 ### Modulus and remainders
 
 <details>
-  <summary>Click here for a review of Ruby integer division</summary>
+  <summary>Click here for a review of Ruby integer division</summary><br>
 
   In Ruby, Integer division can be tricky. If you have't tried dividing something that should result in a decimal (like 10/3), try it now.
 
