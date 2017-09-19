@@ -28,7 +28,7 @@ You've already used some comparison operators (greater than, less than, and equa
   Since both inputs are integers, the return value of that division expression will _also_ be an integer. In other words, it's truncating the data (cutting off the decimal; rounding _down_ to the nearest integer). 10/3 in math class would be 3.333... repeating. But in programming, the decimal is chopped off (truncated), so 10/3 in Ruby is 3, because the expression of integers will be rounded down to the nearest integer.
 
   10/3 can also be written as 3r1 (three, with a remainder of 1) - and _that's_ the key to understanding the modulus.
-</details>
+</details><br>
 
 In Ruby, you can easily find the remainder of a division expression of integers. For example, 10 divided by three is three, with a remainder of 1.
 
